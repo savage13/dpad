@@ -48,7 +48,7 @@ Install and Run
 Images
 ------
 
-Images of the fantastic controller buttons are from [https://thoseawesomeguys.com/prompts/]. :)
+Images of the fantastic controller buttons are from https://thoseawesomeguys.com/prompts/ . :)
 
 License
 -------
